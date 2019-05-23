@@ -1,6 +1,6 @@
 
   body {
-    background-color: lightblue;
+    background-color: green;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
@@ -41,10 +41,11 @@
   }
   #backgroundwhitebox-desc{
     background-color: white;
-    border: 5px solid lightgreen;
-    text-align: center;
+    border: 5px solid black;
     position: absolute;
     margin: 0 auto;
+    padding-bottom: 30px;
+    margin-bottom: 30px;
   }
   #pagetitle-desc{
     top: 10px;
@@ -63,7 +64,7 @@
     width: 900px;
     height: 2px;
     top: 30px;
-    background: blue;
+    background: green;
     margin: 0 auto;
   }
   #week1title-desc{
