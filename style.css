@@ -1,0 +1,71 @@
+
+  body {
+    background-color: lightblue;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+  }
+  /* Big Titles */
+  h1 {
+      color: black;
+      text-align: center;
+      font-family: Helvetica, sans-serif;
+      font-weight: 200;
+      font-size: 50px;
+    }
+  /* Sub Titles */
+  h2 {
+    font-size: 30px;
+    font-family: Helvetica, sans-serif;
+    font-weight: 150;
+    font-size: 30px;
+  }
+  /* Faint Subscript */
+  h6 {
+    font-size: 15px;
+    font-family: Helvetica, serif;
+    font-weight: 100;
+    font-size: 15px;
+  }
+  .text-box{
+    /*transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -webkit-transform: translate(-50%, -50%);*/
+    position: static;
+    text-align: center;
+  }
+  #backgroundwhitebox-desc{
+    background-color: white;
+    height: 1000px;
+    border: 5px solid lightgreen;
+    text-align: center;
+    position: absolute;
+    margin: 0 auto;
+  }
+  #pagetitle-desc{
+    top: 10px;
+    height: 30px;
+    text-align: center;
+    margin: 0 auto;
+
+  }
+  #byline-desc{
+    width: 1000px;
+    top: 300px;
+    text-align: center;
+    margin: 0 auto;
+  }
+  #dividerline-desc{
+    width: 900px;
+    height: 2px;
+    top: 30px;
+    background: blue;
+    margin: 0 auto;
+  }
+  #projectgoal-desc{
+    width: 1000px;
+    top: 300px;
+    text-align: center;
+    margin: 0 auto;
+  }
