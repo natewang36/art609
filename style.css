@@ -41,7 +41,7 @@
   }
   #backgroundwhitebox-desc{
     background-color: white;
-    border: 5px solid black;
+    border: 20px solid maroon;
     position: absolute;
     margin: 0 auto;
     padding-bottom: 30px;
@@ -62,7 +62,7 @@
   }
   #dividerline-desc{
     width: 900px;
-    height: 2px;
+    height: 5px;
     top: 30px;
     background: green;
     margin: 0 auto;
