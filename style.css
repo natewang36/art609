@@ -1,6 +1,6 @@
 
   body {
-    background-color: green;
+    background-color: rgb(8,82,9);
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 100px;
@@ -51,7 +51,7 @@
   }
   #backgroundwhitebox-desc{
     background-color: white;
-    border: 20px solid maroon;
+    border: 20px solid #540404;
     position: static;
     margin: 0 auto;
     padding-bottom: 30px;
@@ -74,7 +74,7 @@
     width: 900px;
     height: 5px;
     top: 30px;
-    background: green;
+    background: rgb(8,82,9);
     margin: 0 auto;
   }
   #week1title-desc{
